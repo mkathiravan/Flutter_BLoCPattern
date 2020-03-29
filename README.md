@@ -39,3 +39,7 @@ StreamTransformer:- To control the processing of the data inside a Stream, we ha
  inject data to other streams,
  
 So, that all to implement BLoC architecture in the Flutter. Let's create a small application to understand the flow of the stream.
+
+The below screenshot is the output of this program:
+
+![image](https://user-images.githubusercontent.com/39657409/77860029-695b3780-722a-11ea-968c-e7e2019d6efd.png)
